@@ -1,0 +1,21 @@
+{
+  "name" : "forget-chuckie/swoole",
+  "description" : "swoole 服务",
+  "keywords" : [
+    "swoole",
+    "swoole 服务",
+    "webSocket",
+    "tcp服务",
+    "udp服务",
+    "异步高性网络通信框架"
+  ],
+  "authors" : [
+    {
+      "name" : "forget-chuckie",
+      "email" : "747825455@qq.com"
+    }
+  ],
+  "require" : {
+    "php" : ">=5.3.10"
+  }
+}
