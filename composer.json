@@ -1,6 +1,6 @@
 {
   "name" : "forget-chuckie/swoole",
-  "description" : "swoole 服务",
+  "description" : "swoole 异步高性能服务网络通信框架",
   "keywords" : [
     "swoole",
     "swoole 服务",
